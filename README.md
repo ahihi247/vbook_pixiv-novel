@@ -1,6 +1,7 @@
 extensions cho phần nguồn mở rộng pixiv novel của vbook app bản mới (đã test hoạt động với vBook App v1.0.7).
 chức năng chính: 
  + danh sách truyện pixiv novel.
+ + tìm kiếm truyện theo tag
  + thông tin truyện có danh sách truyện cùng series và danh sách truyện cùng tác giả.
 
 Mọi thông tin thắc mắc vui lòng liên hệ email: phuongvip692@gmail.com
